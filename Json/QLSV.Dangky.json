@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "657faad2855549bbdd08d8f8"
+  },
+  "id_DK": "DK1",
+  "ma_sinh_vien": "SV12",
+  "ma_nhom_hoc_phan": "NHP5",
+  "hoc_ky": "1"
+},
+{
+  "_id": {
+    "$oid": "657fae26855549bbdd08dc21"
+  },
+  "id_DK": "DK2",
+  "ma_sinh_vien": "SV1",
+  "ma_nhom_hoc_phan": "NHP001",
+  "hoc_ky": "1"
+},
+{
+  "_id": {
+    "$oid": "657fae2d855549bbdd08dc35"
+  },
+  "id_DK": "DK3",
+  "ma_sinh_vien": "SV1",
+  "ma_nhom_hoc_phan": "NHP4",
+  "hoc_ky": "1"
+},
+{
+  "_id": {
+    "$oid": "657fae32855549bbdd08dc49"
+  },
+  "id_DK": "DK4",
+  "ma_sinh_vien": "SV1",
+  "ma_nhom_hoc_phan": "NHP5",
+  "hoc_ky": "1"
+},
+{
+  "_id": {
+    "$oid": "657fcabd855549bbdd08ee22"
+  },
+  "id_DK": "DK5",
+  "ma_sinh_vien": "SV11",
+  "ma_nhom_hoc_phan": "NHP7",
+  "hoc_ky": "1"
+},
+{
+  "_id": {
+    "$oid": "657fcb2a855549bbdd08ee68"
+  },
+  "id_DK": "DK6",
+  "ma_sinh_vien": "SV11",
+  "ma_nhom_hoc_phan": "NHP6",
+  "hoc_ky": "1"
+}]

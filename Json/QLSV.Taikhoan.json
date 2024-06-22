@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "657f0a820a8e62bf0a064adc"
+  },
+  "name": "Dư Gia Tiến",
+  "email": "dugiatien14@gmail.com",
+  "password": "$2y$10$Oi01nytye2XpjJnsOOX1XeXAbzDHd8SMrmk/mMsmwIleoI20vZ7MW"
+},
+{
+  "_id": {
+    "$oid": "657fc8d770c606fad500e247"
+  },
+  "name": "dugiatien",
+  "email": "dugiatien@gmail.com",
+  "password": "$2y$10$70JkZqMX/mdEjgN0SyY8GuCQEapVKx/OH8xBMiMV00cbXoOosr0BG"
+}]

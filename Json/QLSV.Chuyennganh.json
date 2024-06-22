@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "6579c4837badd3e302b5f30d"
+  },
+  "ma_chuyen_nganh": "CN1",
+  "ten_chuyen_nganh": "Công nghệ thông tin",
+  "ma_khoa": "K001"
+},
+{
+  "_id": {
+    "$oid": "657f2c413397c08441f4333f"
+  },
+  "ma_chuyen_nganh": "CN2",
+  "ten_chuyen_nganh": "Khoa học máy tính",
+  "ma_khoa": "K001"
+},
+{
+  "_id": {
+    "$oid": "657f2d4c3397c08441f43347"
+  },
+  "ma_chuyen_nganh": "CN3",
+  "ten_chuyen_nganh": "Kỹ thuật phần mềm",
+  "ma_khoa": "K001"
+},
+{
+  "_id": {
+    "$oid": "657f31c73397c08441f43361"
+  },
+  "ma_chuyen_nganh": "CN4",
+  "ten_chuyen_nganh": "Quản trị Dự án",
+  "ma_khoa": "K002"
+},
+{
+  "_id": {
+    "$oid": "657f31d33397c08441f43362"
+  },
+  "ma_chuyen_nganh": "CN5",
+  "ten_chuyen_nganh": "Tài chính Doanh nghiệp",
+  "ma_khoa": "K002"
+},
+{
+  "_id": {
+    "$oid": "657f32d03397c08441f43364"
+  },
+  "ma_chuyen_nganh": "CN6",
+  "ten_chuyen_nganh": "Kinh doanh Quốc tế",
+  "ma_khoa": "K002"
+},
+{
+  "_id": {
+    "$oid": "657f32da3397c08441f43365"
+  },
+  "ma_chuyen_nganh": "CN7",
+  "ten_chuyen_nganh": "Quản trị Rủi ro",
+  "ma_khoa": "K002"
+},
+{
+  "_id": {
+    "$oid": "657f32e43397c08441f43366"
+  },
+  "ma_chuyen_nganh": "CN8",
+  "ten_chuyen_nganh": "Marketing số",
+  "ma_khoa": "K002"
+},
+{
+  "_id": {
+    "$oid": "657f32ef3397c08441f43367"
+  },
+  "ma_chuyen_nganh": "CN9",
+  "ten_chuyen_nganh": "Quản lý Chuỗi cung ứng",
+  "ma_khoa": "K002"
+},
+{
+  "_id": {
+    "$oid": "657f32fd3397c08441f43368"
+  },
+  "ma_chuyen_nganh": "CN10",
+  "ten_chuyen_nganh": "Kế toán Quản trị",
+  "ma_khoa": "K002"
+},
+{
+  "_id": {
+    "$oid": "657f33053397c08441f43369"
+  },
+  "ma_chuyen_nganh": "CN11",
+  "ten_chuyen_nganh": "Quản trị Nhân sự",
+  "ma_khoa": "K002"
+},
+{
+  "_id": {
+    "$oid": "657f330f3397c08441f4336a"
+  },
+  "ma_chuyen_nganh": "CN12",
+  "ten_chuyen_nganh": "Phân tích Thị trường",
+  "ma_khoa": "K002"
+}]

@@ -1,0 +1,145 @@
+[{
+  "_id": {
+    "$oid": "657f2f5a3397c08441f4334e"
+  },
+  "ten": "Nguyễn Văn An",
+  "email": "nguyenvana@example.com",
+  "gioi_tinh": "Male",
+  "sdt": "0123456789",
+  "ngay_sinh": "1990-05-15",
+  "ma_khoa": "K001",
+  "trang_thai": "Đang dạy",
+  "ma_giang_vien": "GV002"
+},
+{
+  "_id": {
+    "$oid": "657f2f823397c08441f4334f"
+  },
+  "ten": "Trần Thị Bích",
+  "email": "tranthib@example.com",
+  "gioi_tinh": "Female",
+  "sdt": "0987654321",
+  "ngay_sinh": "1985-09-20",
+  "ma_khoa": "K002",
+  "trang_thai": "Nghỉ hưu",
+  "ma_giang_vien": "GV001"
+},
+{
+  "_id": {
+    "$oid": "657f2f8f3397c08441f43350"
+  },
+  "ten": "Lê Văn Cường",
+  "email": "levanc@example.com",
+  "gioi_tinh": "Male",
+  "sdt": "0369852147",
+  "ngay_sinh": "1978-12-03",
+  "ma_khoa": "K003",
+  "trang_thai": "Đang dạy",
+  "ma_giang_vien": "GV003"
+},
+{
+  "_id": {
+    "$oid": "657f2fa73397c08441f43351"
+  },
+  "ten": "Phạm Thị Dương",
+  "email": "phamthid@example.com",
+  "gioi_tinh": "Female",
+  "sdt": "0765432198",
+  "ngay_sinh": "1982-07-25",
+  "ma_khoa": "K004",
+  "trang_thai": "Đang dạy",
+  "ma_giang_vien": "GV004"
+},
+{
+  "_id": {
+    "$oid": "657f2fbd3397c08441f43352"
+  },
+  "ten": "Hoàng Văn Mạnh",
+  "email": "hoangvane@example.com",
+  "gioi_tinh": "Male",
+  "sdt": "0912345678",
+  "ngay_sinh": "1995-03-10",
+  "ma_khoa": "K002",
+  "trang_thai": "Nghỉ hưu",
+  "ma_giang_vien": "GV005",
+  "ma_chuyen_nganh": "CN1",
+  "ma_lop": "L002"
+},
+{
+  "_id": {
+    "$oid": "657f2fd23397c08441f43353"
+  },
+  "ten": "Mai Thị Tuyền",
+  "email": "maithif@example.com",
+  "gioi_tinh": "Female",
+  "sdt": "0654321890",
+  "ngay_sinh": "1987-11-18",
+  "ma_khoa": "K006",
+  "trang_thai": "Nghỉ hưu",
+  "ma_giang_vien": "GV006"
+},
+{
+  "_id": {
+    "$oid": "657f2fe33397c08441f43354"
+  },
+  "ten": "Đặng Văn Ngữ",
+  "email": "dangvang@example.com",
+  "gioi_tinh": "Male",
+  "sdt": "0321654987",
+  "ngay_sinh": "1973-08-28",
+  "ma_khoa": "K007",
+  "trang_thai": "Đang dạy",
+  "ma_giang_vien": "GV007"
+},
+{
+  "_id": {
+    "$oid": "657f2ffa3397c08441f43355"
+  },
+  "ten": "Vũ Thị Hạnh",
+  "email": "vuthih@example.com",
+  "gioi_tinh": "Female",
+  "sdt": "0897216435",
+  "ngay_sinh": "1980-06-12",
+  "ma_khoa": "K008",
+  "trang_thai": "Đang dạy",
+  "ma_giang_vien": "GV008"
+},
+{
+  "_id": {
+    "$oid": "657f30173397c08441f43356"
+  },
+  "ten": "Ngô Văn Dương",
+  "email": "ngovani@example.com",
+  "gioi_tinh": "Male",
+  "sdt": "0543219876",
+  "ngay_sinh": "1992-04-05",
+  "ma_khoa": "K009",
+  "trang_thai": "Đang dạy",
+  "ma_giang_vien": "GV009"
+},
+{
+  "_id": {
+    "$oid": "657f302f3397c08441f43357"
+  },
+  "ten": "Trịnh Thị Thảo",
+  "email": "trinhthik@example.com",
+  "gioi_tinh": "Female",
+  "sdt": "0789456123",
+  "ngay_sinh": "1984-02-22",
+  "ma_khoa": "K010",
+  "trang_thai": "Dang dạy",
+  "ma_giang_vien": "GV010"
+},
+{
+  "_id": {
+    "$oid": "657fc9a1855549bbdd08ed0c"
+  },
+  "ten": "Dư Gia Tiến",
+  "email": "dugiatien14@gmail.com",
+  "gioi_tinh": "Select Gender",
+  "sdt": "123445678",
+  "ngay_sinh": "2023-12-21",
+  "trang_thai": "Đang dạy",
+  "ma_khoa": "K002",
+  "ma_giang_vien": "GV11"
+}]

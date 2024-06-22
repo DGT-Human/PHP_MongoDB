@@ -1,0 +1,83 @@
+[{
+  "_id": {
+    "$oid": "656ee82a44a064caafeafac8"
+  },
+  "ma_nhom_hoc_phan": "NHP001",
+  "ten_nhom_hoc_phan": "Nhóm A",
+  "ma_hoc_phan": "HP001",
+  "so_tiet": "3",
+  "thu": "Thứ 2",
+  "tiet_bat_dau": "1"
+},
+{
+  "_id": {
+    "$oid": "657fadb0855549bbdd08db56"
+  },
+  "ten_nhom_hoc_phan": "Nhóm B",
+  "ma_nhom_hoc_phan": "NHP2",
+  "ma_hoc_phan": "HP001",
+  "so_luong": "40",
+  "thu": "Thứ 4",
+  "tiet_bat_dau": "6",
+  "so_tiet": "2"
+},
+{
+  "_id": {
+    "$oid": "657fadc3855549bbdd08db75"
+  },
+  "ten_nhom_hoc_phan": "Nhóm A",
+  "ma_nhom_hoc_phan": "NHP3",
+  "ma_hoc_phan": "HP002",
+  "so_luong": "40",
+  "thu": "Thứ 3",
+  "tiet_bat_dau": "7",
+  "so_tiet": "2"
+},
+{
+  "_id": {
+    "$oid": "657fadd6855549bbdd08db8a"
+  },
+  "ten_nhom_hoc_phan": "Nhóm B",
+  "ma_nhom_hoc_phan": "NHP4",
+  "ma_hoc_phan": "HP002",
+  "so_luong": "40",
+  "thu": "Thứ 2",
+  "tiet_bat_dau": "8",
+  "so_tiet": "2"
+},
+{
+  "_id": {
+    "$oid": "657fadef855549bbdd08dbb4"
+  },
+  "ten_nhom_hoc_phan": "Nhóm A",
+  "ma_nhom_hoc_phan": "NHP5",
+  "ma_hoc_phan": "HP003",
+  "so_luong": "40",
+  "thu": "Thứ 2",
+  "tiet_bat_dau": "5",
+  "so_tiet": "3"
+},
+{
+  "_id": {
+    "$oid": "657fadf6855549bbdd08dbbe"
+  },
+  "ten_nhom_hoc_phan": "Nhóm B",
+  "ma_nhom_hoc_phan": "NHP6",
+  "ma_hoc_phan": "HP003",
+  "so_luong": "40",
+  "thu": "Thứ 3",
+  "tiet_bat_dau": "3",
+  "so_tiet": "3"
+},
+{
+  "_id": {
+    "$oid": "657fca16855549bbdd08ed70"
+  },
+  "ten_nhom_hoc_phan": "Nhóm C",
+  "ma_nhom_hoc_phan": "NHP7",
+  "ma_hoc_phan": "HP001",
+  "so_luong": "40",
+  "thu": "Thứ 5",
+  "tiet_bat_dau": "3",
+  "so_tiet": "3"
+}]

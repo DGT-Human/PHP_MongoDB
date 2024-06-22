@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "656ee7ec44a064caafeafac2"
+  },
+  "ma_sinh_vien": "SV1",
+  "ma_nhom_hoc_phan": "NHP001",
+  "diem": "10",
+  "hoc_ky": "1"
+},
+{
+  "_id": {
+    "$oid": "657fbd59855549bbdd08e563"
+  },
+  "ma_nhom_hoc_phan": "NHP5",
+  "ma_sinh_vien": "SV1",
+  "diem": "8",
+  "hoc_ky": "1"
+},
+{
+  "_id": {
+    "$oid": "657fbec4855549bbdd08e718"
+  },
+  "ma_nhom_hoc_phan": "NHP5",
+  "ma_sinh_vien": "SV12",
+  "diem": "4",
+  "hoc_ky": "1"
+},
+{
+  "_id": {
+    "$oid": "657fca93855549bbdd08edeb"
+  },
+  "ma_nhom_hoc_phan": "NHP4",
+  "ma_sinh_vien": "SV1",
+  "diem": "10",
+  "hoc_ky": "1"
+}]

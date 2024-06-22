@@ -1,0 +1,168 @@
+[{
+  "_id": {
+    "$oid": "656ee7d844a064caafeafac0"
+  },
+  "ma_hoc_phan": "HP001",
+  "ten_hoc_phan": "Lập trình Java",
+  "so_tin_chi": "4"
+},
+{
+  "_id": {
+    "$oid": "657f357d3397c08441f43387"
+  },
+  "ma_hoc_phan": "HP002",
+  "ten_hoc_phan": "Cấu trúc dữ liệu và giải thuật",
+  "so_tin_chi": 2
+},
+{
+  "_id": {
+    "$oid": "657f35833397c08441f43388"
+  },
+  "ma_hoc_phan": "HP003",
+  "ten_hoc_phan": "Mạng máy tính",
+  "so_tin_chi": 4
+},
+{
+  "_id": {
+    "$oid": "657f358c3397c08441f43389"
+  },
+  "ma_hoc_phan": "HP004",
+  "ten_hoc_phan": "Phân tích và thiết kế hệ thống",
+  "so_tin_chi": 3
+},
+{
+  "_id": {
+    "$oid": "657f35953397c08441f4338a"
+  },
+  "ma_hoc_phan": "HP005",
+  "ten_hoc_phan": "Công nghệ Web",
+  "so_tin_chi": 4
+},
+{
+  "_id": {
+    "$oid": "657f359f3397c08441f4338b"
+  },
+  "ma_hoc_phan": "HP006",
+  "ten_hoc_phan": "Machine Learning Fundamentals",
+  "so_tin_chi": 3
+},
+{
+  "_id": {
+    "$oid": "657f35a93397c08441f4338c"
+  },
+  "ma_hoc_phan": "HP007",
+  "ten_hoc_phan": "Hệ thống thông tin quản lý",
+  "so_tin_chi": 2
+},
+{
+  "_id": {
+    "$oid": "657f35b23397c08441f4338d"
+  },
+  "ma_hoc_phan": "HP008",
+  "ten_hoc_phan": "Software Engineering Principles",
+  "so_tin_chi": 4
+},
+{
+  "_id": {
+    "$oid": "657f35ba3397c08441f4338e"
+  },
+  "ma_hoc_phan": "HP009",
+  "ten_hoc_phan": "Mobile Application Development",
+  "so_tin_chi": 3
+},
+{
+  "_id": {
+    "$oid": "657f35c13397c08441f4338f"
+  },
+  "ma_hoc_phan": "HP010",
+  "ten_hoc_phan": "Data Mining Techniques",
+  "so_tin_chi": 2
+},
+{
+  "_id": {
+    "$oid": "657f35cc3397c08441f43390"
+  },
+  "ma_hoc_phan": "HP011",
+  "ten_hoc_phan": "Computer Graphics",
+  "so_tin_chi": 4
+},
+{
+  "_id": {
+    "$oid": "657f35d43397c08441f43391"
+  },
+  "ma_hoc_phan": "HP012",
+  "ten_hoc_phan": "Digital Signal Processing",
+  "so_tin_chi": 3
+},
+{
+  "_id": {
+    "$oid": "657f35db3397c08441f43392"
+  },
+  "ma_hoc_phan": "HP013",
+  "ten_hoc_phan": "Software Testing and Quality Assurance",
+  "so_tin_chi": 2
+},
+{
+  "_id": {
+    "$oid": "657f35e53397c08441f43393"
+  },
+  "ma_hoc_phan": "HP014",
+  "ten_hoc_phan": "Computer Networks",
+  "so_tin_chi": 3
+},
+{
+  "_id": {
+    "$oid": "657f35ec3397c08441f43394"
+  },
+  "ma_hoc_phan": "HP015",
+  "ten_hoc_phan": "Information Security",
+  "so_tin_chi": 4
+},
+{
+  "_id": {
+    "$oid": "657f35f93397c08441f43395"
+  },
+  "ma_hoc_phan": "HP016",
+  "ten_hoc_phan": "Embedded Systems",
+  "so_tin_chi": 2
+},
+{
+  "_id": {
+    "$oid": "657f36023397c08441f43396"
+  },
+  "ma_hoc_phan": "HP017",
+  "ten_hoc_phan": "Human-Computer Interaction",
+  "so_tin_chi": 3
+},
+{
+  "_id": {
+    "$oid": "657f36093397c08441f43397"
+  },
+  "ma_hoc_phan": "HP018",
+  "ten_hoc_phan": "International Business",
+  "so_tin_chi": 4
+},
+{
+  "_id": {
+    "$oid": "657f36173397c08441f43398"
+  },
+  "ma_hoc_phan": "HP019",
+  "ten_hoc_phan": "Economics for Engineers",
+  "so_tin_chi": 2
+},
+{
+  "_id": {
+    "$oid": "657f361f3397c08441f43399"
+  },
+  "ma_hoc_phan": "HP020",
+  "ten_hoc_phan": "Marketing Strategies",
+  "so_tin_chi": 3
+},
+{
+  "_id": {
+    "$oid": "657fc9f4855549bbdd08ed56"
+  },
+  "ten_hoc_phan": "Hehe",
+  "ma_hoc_phan": "HP21",
+  "so_tin_chi": "3"
+}]

@@ -1,0 +1,181 @@
+[{
+  "_id": {
+    "$oid": "657f3b513397c08441f433b2"
+  },
+  "ten": "Nguyễn Thị Hương",
+  "email": "huong.nguyen@example.com",
+  "gioi_tinh": "Male",
+  "sdt": "0987654321",
+  "ngay_sinh": "1998-05-15",
+  "ma_khoa": "K001",
+  "ma_lop": "L001",
+  "trang_thai": "Đang học",
+  "ma_sinh_vien": "SV1",
+  "ma_chuyen_nganh": "CN1"
+},
+{
+  "_id": {
+    "$oid": "657f3b6b3397c08441f433b3"
+  },
+  "ten": "Trần Văn An",
+  "email": "antran@example.com",
+  "gioi_tinh": "Male",
+  "sdt": "0123456789",
+  "ngay_sinh": "1997-10-20",
+  "ma_khoa": "K001",
+  "ma_lop": "L001",
+  "trang_thai": "Đang học",
+  "ma_sinh_vien": "SV2",
+  "ma_chuyen_nganh": "CN002"
+},
+{
+  "_id": {
+    "$oid": "657f3b7f3397c08441f433b4"
+  },
+  "ten": "Lê Thị Mai",
+  "email": "maile@example.com",
+  "gioi_tinh": "Female",
+  "sdt": "0978563412",
+  "ngay_sinh": "1999-02-28",
+  "ma_khoa": "K001",
+  "ma_lop": "L001",
+  "trang_thai": "Đang học",
+  "ma_sinh_vien": "SV3",
+  "ma_chuyen_nganh": "CN003"
+},
+{
+  "_id": {
+    "$oid": "657f3b873397c08441f433b5"
+  },
+  "ten": "Phạm Minh Đức",
+  "email": "ducpham@example.com",
+  "gioi_tinh": "Male",
+  "sdt": "0909090909",
+  "ngay_sinh": "1998-08-10",
+  "ma_khoa": "K001",
+  "ma_lop": "L001",
+  "trang_thai": "Đang học",
+  "ma_sinh_vien": "SV4",
+  "ma_chuyen_nganh": "CN001"
+},
+{
+  "_id": {
+    "$oid": "657f3b8f3397c08441f433b6"
+  },
+  "ten": "Vũ Thị Ngọc",
+  "email": "ngocvu@example.com",
+  "gioi_tinh": "Female",
+  "sdt": "0888888888",
+  "ngay_sinh": "1997-12-05",
+  "ma_khoa": "K001",
+  "ma_lop": "L001",
+  "trang_thai": "Đang học",
+  "ma_sinh_vien": "SV5",
+  "ma_chuyen_nganh": "CN002"
+},
+{
+  "_id": {
+    "$oid": "657f3b943397c08441f433b7"
+  },
+  "ten": "Hoàng Văn Tài",
+  "email": "taihoang@example.com",
+  "gioi_tinh": "Male",
+  "sdt": "0777777777",
+  "ngay_sinh": "1999-04-25",
+  "ma_khoa": "K001",
+  "ma_lop": "L001",
+  "trang_thai": "Tốt nghiệp",
+  "ma_sinh_vien": "SV7",
+  "ma_chuyen_nganh": "CN003"
+},
+{
+  "_id": {
+    "$oid": "657f3b9f3397c08441f433b8"
+  },
+  "ten": "Nguyễn Thanh Hà",
+  "email": "hathanhnguyen@example.com",
+  "gioi_tinh": "Female",
+  "sdt": "0666666666",
+  "ngay_sinh": "1998-09-18",
+  "ma_khoa": "K001",
+  "ma_lop": "L001",
+  "trang_thai": "Tốt nghiệp",
+  "ma_sinh_vien": "SV8",
+  "ma_chuyen_nganh": "CN001"
+},
+{
+  "_id": {
+    "$oid": "657f3ba93397c08441f433b9"
+  },
+  "ten": "Trần Minh Tuấn",
+  "email": "tuantran@example.com",
+  "gioi_tinh": "Male",
+  "sdt": "0555555555",
+  "ngay_sinh": "1997-07-14",
+  "ma_khoa": "K001",
+  "ma_lop": "L001",
+  "trang_thai": "Đang học",
+  "ma_sinh_vien": "SV9",
+  "ma_chuyen_nganh": "CN002"
+},
+{
+  "_id": {
+    "$oid": "657f3bb63397c08441f433ba"
+  },
+  "ten": "Lê Thị Hải Yến",
+  "email": "yenle@example.com",
+  "gioi_tinh": "Female",
+  "sdt": "0444444444",
+  "ngay_sinh": "1999-01-30",
+  "ma_khoa": "K001",
+  "ma_lop": "L001",
+  "trang_thai": "Đang học",
+  "ma_sinh_vien": "SV11",
+  "ma_chuyen_nganh": "CN003"
+},
+{
+  "_id": {
+    "$oid": "657f3bbc3397c08441f433bb"
+  },
+  "ten": "Trần Văn Nam",
+  "email": "namtran@example.com",
+  "gioi_tinh": "Male",
+  "sdt": "0333333333",
+  "ngay_sinh": "1998-11-22",
+  "ma_khoa": "K001",
+  "ma_lop": "L001",
+  "trang_thai": "Đang học",
+  "ma_sinh_vien": "SV12",
+  "ma_chuyen_nganh": "CN001"
+},
+{
+  "_id": {
+    "$oid": "657f3bc73397c08441f433bc"
+  },
+  "ten": "Phạm Thị Ngọc Trâm",
+  "email": "trampham@example.com",
+  "gioi_tinh": "Female",
+  "sdt": "0222222222",
+  "ngay_sinh": "1997-06-12",
+  "ma_khoa": "K001",
+  "ma_lop": "L001",
+  "trang_thai": "Đang học",
+  "ma_sinh_vien": "SV13",
+  "ma_chuyen_nganh": "CN002"
+},
+{
+  "_id": {
+    "$oid": "657fc191855549bbdd08e8f5"
+  },
+  "ten": "Zed",
+  "email": "zed@gmail.com",
+  "gioi_tinh": "Male",
+  "sdt": "1234567890",
+  "ngay_sinh": "2001-05-08",
+  "ma_khoa": "K001",
+  "ma_lop": "L003",
+  "trang_thai": "Đang học",
+  "ma_sinh_vien": "SV6",
+  "ma_chuyen_nganh": "CN1",
+  "ma_nien_khoa": "NK2022"
+}]

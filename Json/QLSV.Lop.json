@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "656ee81744a064caafeafac6"
+  },
+  "ma_lop": "L001",
+  "ten_lop": "Lớp A",
+  "ma_giang_vien": "GV001"
+},
+{
+  "_id": {
+    "$oid": "657f3e153397c08441f433cf"
+  },
+  "ma_lop": "L002",
+  "ten_lop": "Lớp B",
+  "ma_giang_vien": "GV008"
+},
+{
+  "_id": {
+    "$oid": "657f3f0f3397c08441f433da"
+  },
+  "ma_lop": "L003",
+  "ten_lop": "Lớp C",
+  "ma_giang_vien": "GV007"
+},
+{
+  "_id": {
+    "$oid": "657f3f8e3397c08441f433db"
+  },
+  "ma_lop": "L004",
+  "ten_lop": "Lớp D",
+  "ma_giang_vien": "GV010"
+}]

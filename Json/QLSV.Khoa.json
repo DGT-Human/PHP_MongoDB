@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "657ba04ed1a256bf707da244"
+  },
+  "ma_khoa": "K002",
+  "ten_khoa": "Khoa Quản trị kinh doanh",
+  "ma_giang_vien": "GV008",
+  "phong": "A001"
+},
+{
+  "_id": {
+    "$oid": "657f2c743397c08441f43342"
+  },
+  "ma_khoa": "K001",
+  "ten_khoa": "Khoa Công nghệ thông tin ",
+  "ma_giang_vien": "GV002",
+  "phong": "A002"
+},
+{
+  "_id": {
+    "$oid": "657f308d3397c08441f4335b"
+  },
+  "ma_khoa": "K003",
+  "ten_khoa": "Khoa Luật",
+  "ma_giang_vien": "GV010",
+  "phong": "A003"
+},
+{
+  "_id": {
+    "$oid": "657f30ad3397c08441f4335d"
+  },
+  "ma_khoa": "K004",
+  "ten_khoa": "Khoa ngoại ngữ",
+  "ma_giang_vien": "GV006",
+  "phong": "A004"
+}]

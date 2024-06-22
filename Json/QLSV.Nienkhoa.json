@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "656c4b37e8f5d7b60d9cb812"
+  },
+  "ma_nien_khoa": "NK2020",
+  "nam_bat_dau": 2020,
+  "nam_ket_thuc": 2024
+},
+{
+  "_id": {
+    "$oid": "656c4b3ce8f5d7b60d9cb813"
+  },
+  "ma_nien_khoa": "NK2019",
+  "nam_bat_dau": 2019,
+  "nam_ket_thuc": 2023
+},
+{
+  "_id": {
+    "$oid": "656c4b45e8f5d7b60d9cb814"
+  },
+  "ma_nien_khoa": "NK2022",
+  "nam_bat_dau": 2022,
+  "nam_ket_thuc": 2026
+}]
